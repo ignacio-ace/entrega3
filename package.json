@@ -1,0 +1,12 @@
+{
+  "name": "49477-32150-manejo-de-archivos-nahuacevedo-entrega2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrega2.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
